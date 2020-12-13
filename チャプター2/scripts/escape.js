@@ -1,1 +1,0 @@
-window.alert('hello world \n Javascript');
